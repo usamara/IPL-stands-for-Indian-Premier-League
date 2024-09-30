@@ -12,4 +12,8 @@ Major Rules of the IPL:
 
 ## Installation
 Please install the below Python libraries before running the code
+[Installation](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/blob/main/Installation%20.py)
+
+[title](https://www.example.com)
+
 
