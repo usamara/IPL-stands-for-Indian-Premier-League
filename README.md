@@ -14,7 +14,9 @@ Major Rules of the IPL:
 Please install the below Python libraries before running the code
 [Installation](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/blob/main/Installation.ipynb)
 
+## Data File
+
 ## Python Code & Graph:
-[Code](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/edit/main/README.md#:~:text=Samanta_Rajib_Project_IPL_2022)
+[Code & Graph](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/blob/main/Samanta_Rajib_Project_IPL_2022.ipynb)
 
 
