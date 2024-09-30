@@ -15,6 +15,7 @@ Please install the below Python libraries before running the code
 [Installation](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/blob/main/Installation.ipynb)
 
 ## Data File
+[Data File](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/blob/main/Book_ipl22_ver_33.csv)
 
 ## Python Code & Graph:
 [Code & Graph](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/blob/main/Samanta_Rajib_Project_IPL_2022.ipynb)
